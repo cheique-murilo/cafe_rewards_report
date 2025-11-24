@@ -1,3 +1,4 @@
 # Linguagens principais
 *.dax   linguist-language=DAX
 *.m     linguist-language=M
+powerbi_placeholder.py
